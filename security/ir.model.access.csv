@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_mimodulo_animal,mimodulo.animal,model_mimodulo_animal,,1,1,1,1
+access_mimodulo_instalacion,mimodulo.instalacion,model_mimodulo_instalacion,,1,1,1,1
